@@ -1,0 +1,14 @@
+{
+  "name": "tdd-train-template",
+  "version": "1.0.0",
+  "description": "for tdd training.",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
